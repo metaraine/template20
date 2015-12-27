@@ -28,6 +28,7 @@ Hide templates in your CSS:
 [data-template] {
   display: none;
 }
+```
 
 Clone and populate templates using template20:
 
